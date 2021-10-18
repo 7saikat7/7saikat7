@@ -35,7 +35,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7saikat7)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=7saikat7)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=7saikat7)   -->
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=7saikat7)  
