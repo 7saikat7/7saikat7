@@ -11,9 +11,9 @@
 - 👯 I’m looking to collaborate on any innovative project 
 - 💬 Ask me about anything without hesitation
 
--    I wrote a articles on [https://7saikat7.medium.com/](https://7saikat7.medium.com/)
+-    I have written some articles on [https://7saikat7.medium.com/](https://7saikat7.medium.com/)
 - 📫 How to reach me: 7saikat7@gmail.com 
-- 
+
 <h3 align="left">Languages and Tools:</h3>
 
 
