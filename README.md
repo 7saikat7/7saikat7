@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on some Start-Up
+- 🔭 I’m currently working on a Usa Based Start-Up
 - 🌱 I’m currently learning  SAM and Lambda
 - 👯 I’m looking to collaborate on any innovative project 
 - 💬 Ask me about anything without hesitation
