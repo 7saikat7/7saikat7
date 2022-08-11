@@ -21,6 +21,7 @@
  - **Framework**: Django 
  - **Operating Syatem**:Windows , Ubuntu 
  - **Cloud** : AWS EC2,Cloundfront ,Lambda ,SAM etc.
+ - **Database**:sql,Dynamodb
  - **Verion Control System**: Git , Code Commit,
  - **Others**: Gitlab,Postman,chart.js ,Docker,Node
 
